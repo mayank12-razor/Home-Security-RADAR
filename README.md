@@ -23,6 +23,8 @@ An RGB LED provides color-coded alerts based on distance:
 •	Blue: Object within 40 cm
 A buzzer activates when an object is very close (≤10 cm), simulating a proximity alert.
 
+NOTE: The Ultra Sonic Sensor must be mounted on the Servo Motor.
+
 Applications:
 •	Home/Office security systems
 •	Obstacle detection for robotics
